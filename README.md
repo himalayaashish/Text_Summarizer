@@ -1,5 +1,7 @@
 # Conversation Summarization using Hugging Face Transformers
 
+![alt text](https://github.com/himalayaashish/Text_Summarizer/blob/main/work-2.png?raw=true)
+
 This project summarizes conversations using the Hugging Face `transformers` library and the BART model for summarization. The model used here is `"lidiya/bart-large-xsum-samsum"`.
 
 ## Prerequisites
